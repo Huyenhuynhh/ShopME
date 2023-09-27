@@ -41,7 +41,7 @@ ShopME is an innovative shopping application built to deliver a seamless and use
 ## Technologies & Tools
 
 - **Languages:** Swift
-- **Development Tools:** Xcode, Android Studio
+- **Development Tools:** Xcode
 - **Frameworks:** UIKit
 - **Design:** Custom UI Design, Auto Layout, Stack Views
 
