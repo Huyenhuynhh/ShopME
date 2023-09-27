@@ -7,9 +7,6 @@ ShopME is an innovative shopping application built to deliver a seamless and use
 1. [Features](#features)
 2. [Technologies & Tools](#technologies--tools)
 3. [Installation & Setup](#installation--setup)
-4. [Usage](#usage)
-5. [Contributing](#contributing)
-6. [License](#license)
 
 ## Features
 
